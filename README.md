@@ -14,5 +14,6 @@ Instructions
 git clone git@github.com:CalumJEadie/oneminutebootstrap-pure-python.git
 cd oneminutebootstrap-pure-python
 heroku create
+git push heroku master
 heroku open
 ```
