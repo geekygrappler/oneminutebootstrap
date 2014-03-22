@@ -12,6 +12,7 @@ Instructions
 
 ```sh
 git clone git@github.com:CalumJEadie/oneminutebootstrap-pure-python.git
+cd oneminutebootstrap-pure-python
 heroku create
 heroku open
 ```
